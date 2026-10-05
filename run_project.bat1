@@ -1,0 +1,13 @@
+@echo off
+
+echo ==========================================
+echo Urban Property Price Trend Forecasting
+echo ==========================================
+
+echo.
+echo Starting Streamlit application...
+echo.
+
+python -m streamlit run app.py
+
+pause
